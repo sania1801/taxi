@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="margin_button">4dp</dimen>
+    <dimen name="radius">6dp</dimen>
+    <dimen name="margin_result">16dp</dimen>
+
+    <dimen name="text_size_button">16sp</dimen>
+    <dimen name="text_size_result">32sp</dimen>
+</resources>
